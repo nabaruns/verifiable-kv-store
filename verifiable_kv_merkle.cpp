@@ -1,3 +1,6 @@
+// Compile: g++ sha256.cpp verifiable_kv_merkle.cpp
+// run: cat in.txt | ./a.out
+
 #include <bits/stdc++.h>
 #include "sha256.h"
 #include <unordered_map>
